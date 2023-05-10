@@ -1,0 +1,3 @@
+random mlp =98
+grid mlp =98
+decision tree ada boost = 86
